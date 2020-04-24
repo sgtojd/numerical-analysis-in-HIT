@@ -1,4 +1,4 @@
-# Numerical analysis in HIT
+# 哈工大数值分析部分实验(Numerical analysis in HIT)
 Here are some basic numerical analysis experiments in HIT, including the Newton method, Gauss elimination。
 
 ## 实验1
